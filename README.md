@@ -1,10 +1,10 @@
-# framework-vuetify
+# Framework-vuetify
 
 > Framework UI
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 npm install
 
